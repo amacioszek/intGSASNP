@@ -9,6 +9,8 @@ intGSASNP is an R package that contains the implementation of six algorithms (OR
 - option to choose the number of permutations,
 - option to apply LD correction.
 
+Additionally, an example of a dataset with sample refSNP ids, entrez ids, and p-values is provided.
+
 ## Installation
 
 You can install the package from [GitHub](https://github.com/) with:
